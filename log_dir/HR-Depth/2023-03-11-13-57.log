@@ -1,0 +1,2 @@
+[line: 36] ==> creating ./log_dir\HR-Depth\2023-03-11-13-57.log
+[line: 67] ==> lr:0.0001, alpha:0.33, freeze:True, ./ckpt
